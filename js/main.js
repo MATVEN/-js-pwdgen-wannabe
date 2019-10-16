@@ -17,4 +17,4 @@ console.log(color)
 var outputFin =  "Password:" + inputUser + surname + color + "19";
 console.log(outputFin)
 
-document.getElementById('password').innerHTML=inputFinal;
+document.getElementById('password').innerHTML=outputFin;
